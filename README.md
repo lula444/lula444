@@ -5,7 +5,7 @@ Te doy la bienvenida a mi GitHub!
 - 🚗 Actualmente estoy trabajando en un contador de vehículos, según la ruta que hagan 
   - 📌 Es mi primera vez explorando el mundo del computer vision, muy interesante!
 
-- 🍝 Lo siguiente una app sobre/para restaurantes!
+- 🍝 Lo siguiente es una app sobre/para restaurantes!
   - 🔐 Classified 
 
 📚 Amo leer (novelas sobre todo, también algunos ensayos sociológicos), me gusta aprender 
