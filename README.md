@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola! 🤠
 
-<!--
-**lula444/lula444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Te doy la bienvenida a mi GitHub! 
 
-Here are some ideas to get you started:
+- 🚗 Actualmente estoy trabajando en un contador de vehículos, según la ruta que hagan 
+  - 📌 Es mi primera vez explorando el mundo del computer vision, muy interesante!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍝 Lo siguiente una app sobre/para restaurantes!
+  - 🔐 Classified 
+
+📚 Amo leer (novelas sobre todo, también algunos ensayos sociológicos), me gusta aprender 
+y quisiera seguir estudiando toda mi vida! 
+
+🎞️ Me apasionan las películas, si queres podés ver mi Letterboxd [acá](https://letterboxd.com/lulalala/)
+
+😎 Eso es todo por ahora, gracias por la visita y te deseo buenos días-tardes-noches! 
