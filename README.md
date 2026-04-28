@@ -11,6 +11,6 @@ Te doy la bienvenida a mi GitHub!
 📚 Amo leer (novelas sobre todo, también algunos ensayos sociológicos), me gusta aprender 
 y quisiera seguir estudiando toda mi vida! 
 
-🎞️ Me apasionan las películas, si queres podés ver mi Letterboxd [acá](https://letterboxd.com/lulalala/)
+🎞️ Me apasionan las películass 
 
 😎 Eso es todo por ahora, gracias por la visita y te deseo buenos días-tardes-noches! 
